@@ -2,6 +2,7 @@
 using namespace std;
 int tong(int a, int b);
 int hieu(int a, int b);
+int nhan(int a, int b);
 
 int main()
 {
@@ -30,4 +31,8 @@ int tong(int a, int b)
 {
 	return a+b;
 >>>>>>> c93c755df585efb2e46cf8fb193a4eb0d9a6064b
+}
+int nhan(int a, int b)
+{
+	return a*b;
 }
