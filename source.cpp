@@ -14,7 +14,6 @@ int main()
 	cin >> b;
 	cout<<"chon phep toan (+,-)";
 	cin>>phepToan;
-<<<<<<< HEAD
 	cout <<"tich cua a,b la:";
 	cout <<endl;
 	system("pause");
