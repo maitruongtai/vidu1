@@ -14,6 +14,7 @@ int main()
 	cin >> b;
 <<<<<<< HEAD
 	cout <<"tich cua a,b la:";
+	cout <<endl;
 	system("pause");
 	return 0;
 }
