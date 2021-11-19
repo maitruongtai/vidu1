@@ -12,6 +12,8 @@ int main()
 	cin >> a;
 	cout << "Nhap so nguyen 2: ";
 	cin >> b;
+	cout<<"chon phep toan (+,-)";
+	cin>>phepToan;
 <<<<<<< HEAD
 	cout <<"tich cua a,b la:";
 	cout <<endl;
