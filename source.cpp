@@ -13,7 +13,7 @@ int main()
 	cout << "Nhap so nguyen 2: ";
 	cin >> b;
 <<<<<<< HEAD
-
+	cout <<"tich cua a,b la:";
 	system("pause");
 	return 0;
 }
